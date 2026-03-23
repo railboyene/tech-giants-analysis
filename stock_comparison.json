@@ -1,0 +1,22 @@
+{
+  "companies": [
+    {
+      "company_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "current_price": 229.34,
+      "market_cap": "3.52T"
+    },
+    {
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "current_price": 418.27,
+      "market_cap": "3.10T"
+    },
+    {
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "current_price": 172.34,
+      "market_cap": "2.15T"
+    }
+  ]
+}
